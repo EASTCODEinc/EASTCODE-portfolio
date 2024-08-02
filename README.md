@@ -5,12 +5,9 @@ Showcase your projects and skills with a personalized portfolio website. Join Ea
 
 ## Installation
 
-Clone the repo
+Fork the repo
 
-```bash
-  git clone https://github.com/EASTCODEinc/EASTCODE-portfolio.git
-  cd EASTCODE-portfolio
-```
+
 Create a branch
 
 ```bash
